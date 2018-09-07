@@ -1,0 +1,12 @@
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\bin\Release\GetWeather.exe.config
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\bin\Release\GetWeather.exe
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\bin\Release\GetWeather.pdb
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\bin\Release\Newtonsoft.Json.dll
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\bin\Release\Newtonsoft.Json.xml
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\obj\Release\GetWeather.GetWeatherForm.resources
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\obj\Release\GetWeather.Properties.Resources.resources
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\obj\Release\GetWeather.csproj.GenerateResource.cache
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\obj\Release\GetWeather.csproj.CoreCompileInputs.cache
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\obj\Release\GetWeather.csproj.CopyComplete
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\obj\Release\GetWeather.exe
+C:\Users\RedWraith\source\repos\GetWeather\GetWeather\obj\Release\GetWeather.pdb
